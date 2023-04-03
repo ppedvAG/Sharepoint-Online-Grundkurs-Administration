@@ -10,3 +10,16 @@
 ## Bib Listen
 ### Nachschlagefelder
 ### Datenytpen
+
+## Arbeiten mit Listen und Bibliotheken
+### Ansichten
+### berechnete Spalten
+
+## PowerShell Integration
+### Installation Module PNP SPO
+
+## Websitesammlungs und Websiteeinstellung
+### Features aktivieren
+
+
+
