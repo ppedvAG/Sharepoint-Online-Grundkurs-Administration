@@ -22,4 +22,12 @@
 ### Features aktivieren
 
 
+## Inhaltstypen
+### ContecttypeHub
+### Dokumentmappe
+
+## TermStore
+### Unternehmensstichwörter
+
+
 
