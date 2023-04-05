@@ -1,0 +1,32 @@
+https://keepcalmlovesharepoint.wordpress.com/2020/07/14/manage-maintain-creation-of-groups-in-microsoft-365/
+
+https://learn.microsoft.com/en-us/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets
+
+https://github.com/pnp/powershell
+
+
+
+
+
+# Websitevorlagen anwenden
+https://docs.microsoft.com/de-de/sharepoint/dev/declarative-customization/get-started-create-site-design#use-the-new-site-design 
+
+
+
+
+
+# Neue selbyterstelle Farbschemas in SHarepoint
+## https://fluentuipr.z22.web.core.windows.net/heads/master/theming-designer/index.html
+
+
+
+Berechnete Felder
+
+
+https://support.microsoft.com/de-de/office/einf%C3%BChrung-in-sharepoint-formeln-und-funktionen-94e1b4cc-cd1c-49c2-80ec-90c9b9591f47
+
+https://support.microsoft.com/de-de/office/beispiele-f%C3%BCr-h%C3%A4ufig-verwendete-formeln-in-listen-d81f5f21-2b4e-45ce-b170-bf7ebf6988b3
+
+
+Lizenzen
+https://m365maps.com/matrix.htm
